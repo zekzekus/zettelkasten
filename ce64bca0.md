@@ -1,8 +1,12 @@
 ---
 date: 2020-09-07T11:53
+tags:
+  - experiment
 ---
 
-# New zettel: ce64bca0
+# My Experimental Zettel
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+- Try a link 
+
+
 
