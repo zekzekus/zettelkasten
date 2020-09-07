@@ -6,7 +6,7 @@ tags:
 
 # My Experimental Zettel
 
-- Try a link 
+- Try a link to [[[faq]]]
 
 
 
