@@ -7,6 +7,7 @@ tags:
 # My Experimental Zettel
 
 - Try a link to [[[faq]]]
+- Simple link to [[index]]
 
 
 
