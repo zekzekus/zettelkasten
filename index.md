@@ -8,6 +8,8 @@ You are viewing a [neuron-template](https://github.com/srid/neuron-template) Zet
 
 Get started by reading [[[README]]].
 
+Experiments: [[[ce64bca0]]]
+
 Other pages on this zettelkasten (this demonstrates how to use tag queries):
 
 [[[z:zettels?tag=other]]]
