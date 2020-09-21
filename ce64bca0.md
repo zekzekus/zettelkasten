@@ -8,7 +8,7 @@ tags:
 
 - Try a link to [[[faq]]]
 - Simple link to [[index]]
-- Another link [[index]]
+- Another link [[[index]]]
 - [[README]]
 
 
